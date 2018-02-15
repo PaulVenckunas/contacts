@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 782.5">
+  <defs>
+    <style>
+      .a {
+        fill: url(#a);
+      }
+    </style>
+    <linearGradient id="a" data-name="New Gradient Swatch 2" x1="375.16" y1="123.64" x2="875.5" y2="629.21" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#217f7a"/>
+      <stop offset="1" stop-color="#1b3c6b"/>
+    </linearGradient>
+  </defs>
+  <title>contactify-background</title>
+  <rect class="a" width="1280" height="782.5"/>
+</svg>
